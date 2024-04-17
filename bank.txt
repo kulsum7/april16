@@ -1,0 +1,4 @@
+@@@@@@@Bank@@@@@@1|Chase Bank|773 053 7651
+******Employee(s) *********
+1|ami|ami@abc.com|Business
+1|1000.0|Checking
